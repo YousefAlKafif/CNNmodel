@@ -9,3 +9,5 @@ Some conventional methods I used that increased my accuracy :-
 - The 'relu' rectifier activation function to eliminate negative values, in order to decrease linearity.
 - Doubling the # of feature detectors in consecutive convolutional layers.
 - The 'dropout' method with a rate of 0.5 in the fully connected ANN layer to prevent overfitting.
+
+Please view my 'CNNcomprehensionNotes' pdf if you'd like a step-by-step analysis of my work and how I did it.
